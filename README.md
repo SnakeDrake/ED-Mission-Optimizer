@@ -11,3 +11,5 @@ But i don't have all of the ship in the game so if you load a ship that my tool 
 ![image](https://github.com/user-attachments/assets/d019c6c5-f672-45b9-8378-9d6dca335084)
 
 Then you can manually save, and if if you can i want the content of the file settings.json so i can complete the tool.
+
+A big thanks for the guys who created Ardent-Insight, this tool is based on their API.
