@@ -1,5 +1,7 @@
 I created this tool because i make various hauling mission and it's a pain to find station wtih all the commodities i want.
 
+At the start it was just a tool for carrying my missions needing commodities.
+
 So as you can see in this screen, my tool search the log for identifying the mission needing commodities, the quantities need then based on your station search a certain radius and display the station where you can find all of them, or if no stations has all, different station where you can find a maximum of them.
 
 ![image](https://github.com/user-attachments/assets/1e002e4e-919a-4011-b122-82c2f01f4905)
