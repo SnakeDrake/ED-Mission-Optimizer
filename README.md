@@ -18,3 +18,24 @@ In this new version, if you don't have any mission available who need commoditie
 
 ![image](https://github.com/user-attachments/assets/f4b0650c-a65c-46b5-89c9-641fbbf32f37)
 
+Now you can search the nearst station services :
+
+![image](https://github.com/user-attachments/assets/ea2e4fb1-3425-4b8d-9fd7-2143d2d3e3b8)
+
+The Shipyard :
+
+![image](https://github.com/user-attachments/assets/6ece6bb2-9dcc-490d-824e-8cf0b996e58f)
+
+The Oufitting :
+
+![image](https://github.com/user-attachments/assets/8b5d1a37-f04d-43a2-b378-b0d638d94c60)
+
+![image](https://github.com/user-attachments/assets/02f7455d-ef00-46cc-b1f1-21ecb1c9ae05)
+
+You can see your engineering materials :
+
+![image](https://github.com/user-attachments/assets/36c6009a-f789-46e2-8888-0158d7ec5a6e)
+
+And plan a multi-hop trade :
+
+![image](https://github.com/user-attachments/assets/7e85eebb-d626-4025-9450-9cd1b955848d)
